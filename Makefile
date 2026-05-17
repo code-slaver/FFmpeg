@@ -1,6 +1,7 @@
 MAIN_MAKEFILE=1
 include ffbuild/config.mak
 
+
 vpath %.c    $(SRC_PATH)
 vpath %.cpp  $(SRC_PATH)
 vpath %.h    $(SRC_PATH)
